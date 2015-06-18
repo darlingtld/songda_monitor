@@ -10,6 +10,7 @@
     <modules>
         <module>monitor_configuration</module>
         <module>monitor_webservice</module>
+        <module>monitor_model</module>
     </modules>
 
     <properties>

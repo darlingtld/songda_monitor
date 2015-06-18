@@ -16,6 +16,17 @@
     <packaging>war</packaging>
 
     <dependencies>
+
+        <dependency>
+            <groupId>songdatech</groupId>
+            <artifactId>monitor_configuration</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>songdatech</groupId>
+            <artifactId>monitor_model</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
         <!-- Spring and Transactions -->
         <dependency>
             <groupId>org.springframework</groupId>
